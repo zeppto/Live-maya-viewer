@@ -1,0 +1,101 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'd:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\x64\debug\mayaapi.mll' is denied.
+  Unload Maya plugin before building
+  mayaRun.cpp
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\comlib.h(69): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\comlib.h(154): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\comlib.h(157): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\comlib.h(272): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\comlib.h(318): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\comlib.h(321): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(212): warning C4101: 'testt': unreferenced local variable
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(355): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(359): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(360): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(376): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(380): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(381): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(468): warning C4018: '<=': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(484): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(495): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(506): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(514): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(465): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MItDependencyGraph::thisNode': Use MItDependencyGraph::currentItem instead.
+  c:\program files\autodesk\maya2019\include\maya\mitdependencygraph.h(191): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MItDependencyGraph::thisNode'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(481): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(491): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(503): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(511): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(521): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(555): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(583): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(599): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(630): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(635): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(640): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(653): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(654): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(677): warning C4018: '<=': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(682): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(701): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MItDependencyGraph::thisNode': Use MItDependencyGraph::currentItem instead.
+  c:\program files\autodesk\maya2019\include\maya\mitdependencygraph.h(191): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MItDependencyGraph::thisNode'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(772): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(857): warning C4018: '<=': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(873): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(884): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(895): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(903): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(958): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1041): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1046): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1047): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1048): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1049): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1056): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1087): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1107): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1225): warning C4018: '<': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(870): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(880): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(892): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(900): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(910): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+  c:\program files\autodesk\maya2019\include\maya\mfndependencynode.h(115): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnDependencyNode::findPlug'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(977): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MItDependencyGraph::thisNode': Use MItDependencyGraph::currentItem instead.
+  c:\program files\autodesk\maya2019\include\maya\mitdependencygraph.h(191): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MItDependencyGraph::thisNode'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1083): warning C4996: 'Autodesk::Maya::OpenMaya20190000::MFnTransform::translation': Use getTranslation(MSpace::Space, MStatus*) instead.
+  c:\program files\autodesk\maya2019\include\maya\mfntransform.h(265): note: see declaration of 'Autodesk::Maya::OpenMaya20190000::MFnTransform::translation'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1442): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1443): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1469): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1483): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1490): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1492): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1513): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1518): warning C4018: '<=': signed/unsigned mismatch
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(1528): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\bth-year3\konstruktion-av-spelteknikverktyg\uppgift-3\mayaplugin\mayarun.cpp(839): warning C4715: 'getGlobalTransform': not all control paths return a value
+     Creating library D:\bth-year3\Konstruktion-av-spelteknikverktyg\uppgift-3\MayaPlugin\x64\Debug\MayaAPI.lib and object D:\bth-year3\Konstruktion-av-spelteknikverktyg\uppgift-3\MayaPlugin\x64\Debug\MayaAPI.exp
+  MayaAPI.vcxproj -> D:\bth-year3\Konstruktion-av-spelteknikverktyg\uppgift-3\MayaPlugin\x64\Debug\MayaAPI.mll
+  Load Plugin after build
